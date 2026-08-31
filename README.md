@@ -28,7 +28,7 @@ Prueba de comandos, html, css y de instrucciones.
 24.- Cristian Villobos
 25.-
 26.-JoaquinSalamanca
-27.-
+27.- Rissotto I.
 28.-
 29.-
 30.-Gianlucas Miranda
