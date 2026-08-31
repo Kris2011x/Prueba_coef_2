@@ -2,9 +2,9 @@
 ### Fundamentos de la Web · III° Medio
 *Git · GitHub · HTML · CSS — Landing Page*
 
-**Nombre:** _______________________________________________
+**Nombre:** _Rodrigo Rojas_
 
-**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** _______________
+**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** _04/08/26_
 
 ---
 

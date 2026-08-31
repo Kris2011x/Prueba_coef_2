@@ -1,14 +1,13 @@
-/*cuerpo de la pagina*/
+/* Cuerpo de los html */
 body{   
-    background-color: #50101d;
+    background-color: #171225;
     color: #fff;
     font-family: 'Arial', sans-serif;
     text-decoration: none;
 }
-
-/* Contenido */
+/* Cajas */
 div{
-    background-color: #490e1b;
+    background-color: #221A36;
     color: #fff;
     border-radius: 10px;
     padding: 10px;
@@ -16,6 +15,7 @@ div{
     font-family: 'Arial', sans-serif;
     align-items: center;
     text-decoration: none;
+
 }
 
 /* Titulos */
@@ -25,26 +25,19 @@ h4{
     text-decoration: none;
 }
 
-/* Subtitulos */
+/* Subtítulos */
 h5{
-    color: #d45d5d;
+    color: #F7B2D9;
     text-align: start;
     text-decoration: none;
 }
 
-/* Anos (Mi historia) */
+/* Años (Mi historia) */
 nav{
-    background-color: #700211;
+    background-color: #221A36;
     color: #fff;
     padding: 10px;
     text-align: end;
     display: flex;
     justify-content: space-evenly;
-}
-/* Imagen */
-img{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    margin: 10px;
 }

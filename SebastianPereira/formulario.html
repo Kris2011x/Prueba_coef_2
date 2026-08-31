@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
-    <link rel="stylesheet" href="formulario.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav>
         <div class="nav-title">
-            <h5>MI_ESPACIO</h5>
+            <h5>MI_ESPACIO</h5> <!-- Titulo de la pagina en NAVBAR-->
         </div>
 
-        <div class="nav-links">
+        <div class="nav-links"> <!--Enlaces a los demas HTML-->
             <a href="inicio.html">INICIO</a>
             <a href="mi_historia.html">MI HISTORIA</a>
             <a href="#">FORMULARIO</a>
@@ -20,27 +20,31 @@
         </div>
     </nav>
 
-    <header>
+    <header> <!-- Header Contenedor de titulo y descripcion de la pagina -->
         <span>// CONTACTO</span>
         <h1>Dejame un mensaje</h1>
         <p>Este formulario es solo de practica: no envia datos a ningun servidor. Sirve para ejecutar etiquetas semanticas de formularios en HTML</p>
     </header>
 
-    <main>
+    <main id="main-formulario"> <!-- Main Contenedor de formulario-->
         <form action="#">
 
+            <!-- Pedir nombre de usuario-->
             <label for="name">NOMBRE</label>
             <input type="text" placeholder="Tu nombre">
 
+            <!-- Pedir correo electronico-->
             <label for="email">CORREO ELECTRONICO</label>
             <input type="email" placeholder="tucorreo@ejemplo.com">
 
+            <!-- Pedir asunto del mensaje-->
             <label for="asunto">ASUNTO</label>
             <select name="asunto" id="asunto">
                 <option value="saludo">Solo quiero saludar</option>
                 <option value="importante">Algo importante</option>
             </select>
 
+            <!-- Pedir como encontro el sitio web-->
             <span>¿Como llegaste a este sitio?</span>
             <div class="container-options">
                 
@@ -55,15 +59,18 @@
                 <p>Buscador</p>
             </div>
 
+            <!-- Pedir mensaje a recibir por el dueño de la pagina-->
             <label for="mensaje">MENSAJE</label>
             <textarea name="mensaje" id="message"></textarea>
 
+
+            <!-- Boton para enviar el formulario-->
             <input type="submit" value="ENVIAR">
 
         </form>
     </main>
 
-    <footer>
+    <footer> <!-- Footer -->
         <p>&copy; <span>2026</span> mi_espacio</p>
         <p>hecho con HTML y CSS</p>
     </footer>

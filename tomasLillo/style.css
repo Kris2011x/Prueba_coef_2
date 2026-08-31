@@ -5,7 +5,7 @@
     text-decoration:none;
     background-color:#1b152b;
 }
-
+/*Lo de arriba es la parte */
 body{
     color: #c9b6f8;
 }
@@ -14,6 +14,7 @@ h1{
     color:#f5f0fe;
 }
 
+/*Este*/
 .top1{
     display: flex;
     color: #A8F0C6;
@@ -22,6 +23,7 @@ h1{
     font-size: 10px;
 }
 
+/*Y este, son los que van en el header*/
 .top2{
     gap: 20px;
     display: flex;
@@ -32,6 +34,7 @@ h1{
     position: absolute;
 }
 
+/*Esto es para el "copyright"*/
 .bottom1{
     display: flex;
     color: #6f6485;
@@ -42,6 +45,7 @@ h1{
     position: absolute;
 }
 
+/*Y este con lo que esta hecho (css y html)*/
 .bottom2{
     gap: 20px;
     display: flex;
@@ -61,22 +65,27 @@ h1{
     font-size: 10px;
 }
 
+/*Esto es para los "textos" que sale arrbia con los enlaces*/
 header{
     background: #171225;
     padding: 15px 40px;
     border-bottom: 1px solid #3a2f57;
 }
 
+/*Esto es para los elementos que se encuentran abajo*/
 footer{
     background: #171225;
     padding: 15px 40px;
     border-top: 1px solid #3a2f57;
     color: #6f6485;
 }
+
+/*Estos dos son para que los enlaces solo salgan de un color*/
 a:link{
     color: #A8F0C6;
 }
 
+/*Junto con este*/
 a:visited{
     color: #A8F0C6;
 }
@@ -90,6 +99,7 @@ a:visited{
     left: 40%;
 }
 
+/*Este es el contenedor de las cajas*/
 .cubiculos{
     position: absolute;
     right: 45%;
@@ -97,13 +107,14 @@ a:visited{
     max-width: 20%;
 }
 
+/*Esta es la primera caja*/
 .cubiculo1{
     padding: 20px 20px;
     border: solid 1px #372d53;
     border-radius: 15px;
 
 }
-
+/*Esta la segunda*/
 .cubiculo2{
     padding: 20px 30px;
     border: solid 1px #372d53;
@@ -113,6 +124,7 @@ a:visited{
     bottom: -23%;
 }
 
+/*Y esta es la tercera*/
 .cubiculo3{
     padding: 40px 30px;
     border: solid 1px #372d53;
