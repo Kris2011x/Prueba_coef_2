@@ -9,7 +9,7 @@ Prueba de comandos, html, css y de instrucciones.
 5.- Noelia_Troncoso
 6.-
 7.-TKS-Grey
-8.-
+8.- Cristian Villalobos
 9.-
 10.-
 11.- Felipe Gutierrez
@@ -45,5 +45,5 @@ Prueba de comandos, html, css y de instrucciones.
 41.-
 42.-
 43.-
-44.- Cristian Villalobos
+44.- 
 45.- Profesora Liza Molina 
