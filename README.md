@@ -9,7 +9,7 @@ Prueba de comandos, html, css y de instrucciones.
 5.- Noelia_Troncoso
 6.-
 7.-TKS-Grey
-8.- Cristian Villalobos
+8.- 
 9.-
 10.-
 11.- Felipe Gutierrez
@@ -28,7 +28,7 @@ Prueba de comandos, html, css y de instrucciones.
 24.- Cristian Villobos
 25.-
 26.-JoaquinSalamanca
-27.-
+27.- Rissotto I.
 28.-
 29.-
 30.-Gianlucas Miranda
